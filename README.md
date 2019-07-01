@@ -1,4 +1,4 @@
-# otus-edu-java
+# otus-java
 For Otus Java homeworks
 Группа 2019-06
 
